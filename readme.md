@@ -2,4 +2,4 @@
 - In this project :
 	- The following system calls for the PintOS operating system were implemented :
 		- halt,create,open,close,read,write,exit,exec,wait,seek,tell,filesize,remove.  
-	- The function handling threads creation and concurrent execution were Implemented
+	- The functions handling threads creation and concurrent execution were modified
